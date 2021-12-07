@@ -1,4 +1,4 @@
-# Adaptive modular blockchain (AMBC) is the technology for security of big image data 
+# Adaptive modular blockchain (AMBC)  
 
 AMBC is implemented in MATLAB and also has Python version to facilitate blockchain applications in cloud environment (AWS and Azure). 
 It currently supports Proof of Authority (PoA) and BFT-Smart consensus mechanisms.
